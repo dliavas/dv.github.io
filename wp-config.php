@@ -29,7 +29,7 @@ define('DB_USER', 'Pasha');
 define('DB_PASSWORD', 'grasp_92');
 
 /** MySQL hostname */
-define('DB_HOST', 'dv.github.io');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
